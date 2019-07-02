@@ -1,6 +1,7 @@
+
 # api_mac
 querying an api with mac address to get its company name
-This program has written in python3
+This program has been written in python3
 Importing requests module
 send mac address in the sys.argv
 sys.argv[1] is taken as mac address and send to the requests url
