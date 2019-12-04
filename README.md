@@ -5,5 +5,5 @@
 3. Importing requests module
 4. send mac address in the sys.argv
 5. sys.argv[1] is taken as mac address and send to the requests url
-6. requests url has api-key, search and the output format we require
-7. Parse the response to get the companyName
+6. requests url has api-key, search and the output format we require(in our case, we require the output in json format)
+7. Parse the response to get the companyName and print the same.
